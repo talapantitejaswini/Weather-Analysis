@@ -37,24 +37,19 @@ To analyze and visualize historical weather data in order to identify trends, pa
 
 ## 📁 Repository Structure
 
-```
-WEATHER_ANALYSIS_PROJECT/
-│
-├── data/
-│   └── weather_data.csv        # Weather dataset
-│
-├── notebooks/
-│   └── weather_analysis.ipynb  # Data analysis notebook
-│
-├── scripts/
-│   └── analysis.py             # Python script for analysis
-│
-├── outputs/
-│   └── graphs/                 # Generated plots and charts
-│
-├── requirements.txt            # Project dependencies
-└── README.md                   # Project documentation
-```
+
+data/ – Contains raw and processed weather datasets used for analysis.
+
+notebooks/ – Holds Jupyter Notebook files for exploratory data analysis and visualization.
+
+scripts/ – Includes Python scripts that perform data cleaning, analysis, and processing tasks.
+
+outputs/ – Stores generated results such as graphs, charts, and analysis outputs.
+
+requirements.txt – Lists all Python libraries required to run the project.
+
+README.md – Provides project overview, setup instructions, and usage details.
+
 
 ---
 
@@ -64,25 +59,25 @@ WEATHER_ANALYSIS_PROJECT/
 
 git clone <repository_url>
 cd WEATHER_ANALYSIS_PROJECT
-```
+
 
 ### 2️⃣ Create and Activate Virtual Environment (Optional)
 
 python -m venv venv
 venv\Scripts\activate
-```
+
 
 ### 3️⃣ Install Required Libraries
 
 pip install -r requirements.txt
-```
+
 
 ### 4️⃣ Run the Analysis
 
-* Open `weather_analysis.ipynb` in Jupyter Notebook
-  **OR**
+* Open weather_analysis.ipynb in Jupyter Notebook
+     (or)
 python scripts/analysis.py
-```
+
 
 ---
 
