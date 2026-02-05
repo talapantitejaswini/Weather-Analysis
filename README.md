@@ -93,8 +93,11 @@ python scripts/analysis.py
 ## 🧑‍🎓 Author
 
 👩‍💻Tejaswini Talapanti
+
 ML Project - Weather Analysis
+
 🔗Github::https://github.com/talapantitejaswini
+
 🔗Linkedin:www.linkedin.com/in/tejaswini-talapnti
 
 ---
