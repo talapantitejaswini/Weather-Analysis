@@ -38,13 +38,13 @@ To analyze and visualize historical weather data in order to identify trends, pa
 ## 📁 Repository Structure
 
 
-data/ – Contains raw and processed weather datasets used for analysis.
+data – Contains raw and processed weather datasets used for analysis.
 
-notebooks/ – Holds Jupyter Notebook files for exploratory data analysis and visualization.
+notebooks – Holds Jupyter Notebook files for exploratory data analysis and visualization.
 
-scripts/ – Includes Python scripts that perform data cleaning, analysis, and processing tasks.
+scripts – Includes Python scripts that perform data cleaning, analysis, and processing tasks.
 
-outputs/ – Stores generated results such as graphs, charts, and analysis outputs.
+outputs – Stores generated results such as graphs, charts, and analysis outputs.
 
 requirements.txt – Lists all Python libraries required to run the project.
 
@@ -90,17 +90,12 @@ python scripts/analysis.py
 
 ---
 
-## 🚀 Future Enhancements
+## 🧑‍🎓 Author
 
-* Weather prediction using Machine Learning
-* Real-time weather data integration using APIs
-* Dashboard creation using Streamlit or Power BI
-* Location-based weather comparison
-
----
-
-## 👩‍💻 Author
-
+👩‍💻Tejaswini Talapanti
+ML Project - Weather Analysis
+🔗Github::https://github.com/talapantitejaswini
+🔗Linkedin:www.linkedin.com/in/tejaswini-talapnti
 **Tejaswini**
 ---
 
