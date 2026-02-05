@@ -96,7 +96,7 @@ python scripts/analysis.py
 ML Project - Weather Analysis
 🔗Github::https://github.com/talapantitejaswini
 🔗Linkedin:www.linkedin.com/in/tejaswini-talapnti
-**Tejaswini**
+
 ---
 
 
